@@ -18,11 +18,11 @@ hero:
       link: /reference/api-reference
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Modular design
+    details: Build your application with reusable, independent modules
+  - title: Cloud-native architecture
+    details: Leverage modern cloud technologies for scalable and resilient applications
+  - title: Security-first approach
+    details: Built-in security features and best practices for enterprise-grade applications
 ---
 
