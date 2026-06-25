@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Modular design
-    details: Build your application with reusable, independent modules
+    details: Build your application with reusable, independent gears
   - title: Cloud-native architecture
     details: Leverage modern cloud technologies for scalable and resilient applications
   - title: Security-first approach

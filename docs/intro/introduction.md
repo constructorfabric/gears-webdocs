@@ -1,6 +1,6 @@
 # What is Gears?
 
-Gears is a set of libraries, modules and tools that enable XaaS vendors to compose their own products. Vendors decide which modules to include, how to combine them into services, and where to run them—from edge devices to Kubernetes clusters.
+Gears is a set of libraries, gears and tools that enable XaaS vendors to compose their own products. Vendors decide which gears to include, how to combine them into services, and where to run them—from edge devices to Kubernetes clusters.
 
 Among these components are:
 - [Rust](https://www.rust-lang.org/) in the base layer to provide a secure and performant language foundation
@@ -13,6 +13,6 @@ Among these components are:
 - [Coverage with llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) for code coverage
 - FIPS compliance with [aws-lc-rs](https://github.com/aws/aws-lc-rs)
 
-And a lot of other open-source tools and libraries that when combined make Gears a powerful and building platform.
+And many other open-source tools and libraries that, when combined, make Gears a powerful platform for building applications.
 
 In order to ease and centralize the use of these tools, we provide a CLI tool called `gears` that eases all software development tasks related to Gears.

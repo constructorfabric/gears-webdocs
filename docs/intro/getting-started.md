@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-- Rust -> https://rust-lang.org/tools/install/
-- Protobuf -> https://protobuf.dev/installation/
+- [Rust](https://rust-lang.org/tools/install/)
+- [Protobuf](https://protobuf.dev/installation/)
 
 ## CLI installation
 
@@ -36,10 +36,10 @@ If you want to stop here and rely on the LLM to generate your code, you can run 
 
 > Build a Gears application that exposes a REST API, stores tasks in a database, and runs a background worker that processes pending tasks. Use the Gears CLI and update the workspace until the app builds.
 
-## Add a module
+## Add a gear
 
 ```bash
-cargo gears generate module --template background-worker
+cargo gears generate gear --template background-worker
 cargo gears config mod add background-worker -c ./config/quickstart.yml
 ```
 
